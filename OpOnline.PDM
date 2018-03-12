@@ -1,0 +1,492 @@
+[Root]
+Most Recent Package=Dep File 1
+
+
+[Package|Overpower Online|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Overpower\Package
+
+[Package|Overpower Online|Configure DAO ISAMs]
+Applicable=No
+Xbase=No
+Excel=No
+Text=No
+Lotus=No
+Paradox=No
+Exchange=No
+Jet 2.x=No
+
+[Package|Overpower Online|Configure DAO ODBC]
+JetWorkspace=No
+ODBCDirect=No
+
+[Package|Overpower Online|Files Found]
+
+[Package|Overpower Online|Files Released]
+
+[Package|Overpower Online|Missing Dependency Information]
+C:\Overpower\OpDeck.exe=
+C:\Program Files\Common Files\System\ado\msado21.tlb=
+
+[Package|Overpower Online|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\mswinsck.ocx=
+C:\WINDOWS\SYSTEM\tabctl32.ocx=
+C:\WINDOWS\SYSTEM\mscomctl.ocx=
+
+[Package|Overpower Online|Files Added]
+c:\overpower\opdeck.exe=
+c:\overpower\overpower.mdb=
+c:\overpower\temppic.jpg=
+c:\overpower\settings.ini=
+c:\overpower\energy.gif=
+c:\overpower\fighting.gif=
+c:\overpower\intellect.gif=
+c:\overpower\oponline.cnt=
+c:\overpower\oponline.gid=
+c:\overpower\oponline.hlp=
+c:\overpower\rules.htm=
+c:\overpower\strength.gif=
+c:\overpower\decks\children of the night.dat=
+c:\overpower\decks\energy strength team.dat=
+c:\overpower\decks\jla villians.dat=
+c:\overpower\decks\fantastic four villains.dat=
+c:\overpower\decks\fantastic four.dat=
+c:\overpower\decks\energy team.dat=
+c:\overpower\decks\strong heroes.dat=
+c:\overpower\decks\land and sea.dat=
+c:\overpower\decks\smart heroes.dat=
+c:\overpower\decks\smart villians.dat=
+c:\overpower\decks\sorcerers.dat=
+c:\overpower\decks\jla.dat=
+c:\overpower\decks\weather control.dat=
+c:\overpower\decks\three men and the little x-babies.dat=
+c:\overpower\decks\twinz - gamma base.dat=
+c:\overpower\decks\twinz deck.dat=
+c:\overpower\decks\the big apple.dat=
+
+[Package|Overpower Online|Files Removed]
+
+[Package|Overpower Online|Files In Project]
+C:\Overpower\OpOnline.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\tabctl32.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\mswinsck.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Overpower\OpDeck.exe=Yes
+C:\Overpower\Overpower.mdb=Yes
+C:\Overpower\TempPic.jpg=Yes
+C:\Overpower\settings.ini=Yes
+C:\Overpower\energy.gif=Yes
+C:\Overpower\fighting.gif=Yes
+C:\Overpower\intellect.gif=Yes
+C:\Overpower\OpOnline.cnt=Yes
+C:\Overpower\OpOnline.GID=Yes
+C:\Overpower\OPONLINE.HLP=Yes
+C:\Overpower\Rules.htm=Yes
+C:\Overpower\strength.gif=Yes
+C:\Overpower\Decks\Children of the Night.dat=Yes
+C:\Overpower\Decks\Energy Strength Team.dat=Yes
+C:\Overpower\Decks\JLA Villians.dat=Yes
+C:\Overpower\Decks\Fantastic Four Villains.dat=Yes
+C:\Overpower\Decks\Fantastic Four.dat=Yes
+C:\Overpower\Decks\ENERGY TEAM.dat=Yes
+C:\Overpower\Decks\Strong Heroes.dat=Yes
+C:\Overpower\Decks\Land and Sea.dat=Yes
+C:\Overpower\Decks\Smart Heroes.dat=Yes
+C:\Overpower\Decks\Smart Villians.dat=Yes
+C:\Overpower\Decks\Sorcerers.dat=Yes
+C:\Overpower\Decks\JLA.dat=Yes
+C:\Overpower\Decks\Weather Control.dat=Yes
+C:\Overpower\Decks\Three Men and the Little X-Babies.dat=Yes
+C:\Overpower\Decks\Twinz - Gamma Base.dat=Yes
+C:\Overpower\Decks\Twinz Deck.dat=Yes
+C:\Overpower\Decks\The Big Apple.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Common Files\System\ado\msado21.tlb=Yes
+
+[Package|Overpower Online|Configure Registry Files]
+Applicable=No
+
+[Package|Overpower Online|Configure Remote Servers]
+Applicable=No
+
+[Package|Overpower Online|Install Locations]
+C:\Overpower\OpOnline.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\msjet35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjter35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjint35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrepl35.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Overpower\OpDeck.exe=$(AppPath)
+C:\Overpower\Overpower.mdb=$(AppPath)
+C:\Overpower\TempPic.jpg=$(AppPath)
+C:\Overpower\settings.ini=$(AppPath)
+C:\Overpower\energy.gif=$(AppPath)
+C:\Overpower\fighting.gif=$(AppPath)
+C:\Overpower\intellect.gif=$(AppPath)
+C:\Overpower\OpOnline.cnt=$(AppPath)
+C:\Overpower\OpOnline.GID=$(AppPath)
+C:\Overpower\OPONLINE.HLP=$(AppPath)
+C:\Overpower\Rules.htm=$(AppPath)
+C:\Overpower\strength.gif=$(AppPath)
+C:\Overpower\Decks\Children of the Night.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Energy Strength Team.dat=$(AppPath)\Decks
+C:\Overpower\Decks\JLA Villians.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Fantastic Four Villains.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Fantastic Four.dat=$(AppPath)\Decks
+C:\Overpower\Decks\ENERGY TEAM.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Strong Heroes.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Land and Sea.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Smart Heroes.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Smart Villians.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Sorcerers.dat=$(AppPath)\Decks
+C:\Overpower\Decks\JLA.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Weather Control.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Three Men and the Little X-Babies.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Twinz - Gamma Base.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Twinz Deck.dat=$(AppPath)\Decks
+C:\Overpower\Decks\The Big Apple.dat=$(AppPath)\Decks
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado21.tlb=$(WinSysPath)
+
+[Package|Overpower Online|Configure Shared Files]
+Applicable=Yes
+C:\Overpower\OpOnline.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Overpower\OpDeck.exe=No
+C:\Overpower\Overpower.mdb=No
+C:\Overpower\TempPic.jpg=No
+C:\Overpower\settings.ini=No
+C:\Overpower\energy.gif=No
+C:\Overpower\fighting.gif=No
+C:\Overpower\intellect.gif=No
+C:\Overpower\OpOnline.cnt=No
+C:\Overpower\OpOnline.GID=No
+C:\Overpower\OPONLINE.HLP=No
+C:\Overpower\Rules.htm=No
+C:\Overpower\strength.gif=No
+C:\Overpower\Decks\Children of the Night.dat=No
+C:\Overpower\Decks\Energy Strength Team.dat=No
+C:\Overpower\Decks\JLA Villians.dat=No
+C:\Overpower\Decks\Fantastic Four Villains.dat=No
+C:\Overpower\Decks\Fantastic Four.dat=No
+C:\Overpower\Decks\ENERGY TEAM.dat=No
+C:\Overpower\Decks\Strong Heroes.dat=No
+C:\Overpower\Decks\Land and Sea.dat=No
+C:\Overpower\Decks\Smart Heroes.dat=No
+C:\Overpower\Decks\Smart Villians.dat=No
+C:\Overpower\Decks\Sorcerers.dat=No
+C:\Overpower\Decks\JLA.dat=No
+C:\Overpower\Decks\Weather Control.dat=No
+C:\Overpower\Decks\Three Men and the Little X-Babies.dat=No
+C:\Overpower\Decks\Twinz - Gamma Base.dat=No
+C:\Overpower\Decks\Twinz Deck.dat=No
+C:\Overpower\Decks\The Big Apple.dat=No
+
+[Package|Overpower Online|Distribution]
+Type=single
+Size=
+Title=Overpower Online
+
+[Package|Overpower Online|Package]
+PackageFolder=C:\Overpower\Package
+ProjectFolder=C:\Overpower
+ServerSideCab=
+File1=C:\Overpower\Package\setup.exe
+File2=C:\Overpower\Package\Setup.Lst
+File3=C:\Overpower\Package\OpOnline.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Overpower Online|IconGroups]
+Group0=Overpower Online
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Overpower Online|Overpower Online]
+Icon1=OpOnline.exe
+Title1=Overpower Online
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Overpower
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+Xbase=No
+Excel=No
+Text=No
+Lotus=No
+Paradox=No
+Exchange=No
+Jet 2.x=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=No
+ODBCDirect=No
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\Overpower\OpDeck.exe=
+C:\Program Files\Common Files\System\ado\msado21.tlb=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\mswinsck.ocx=
+C:\WINDOWS\SYSTEM\tabctl32.ocx=
+C:\WINDOWS\SYSTEM\mscomctl.ocx=
+
+[Package|Dep File 1|Files Added]
+c:\overpower\opdeck.exe=
+c:\overpower\overpower.mdb=
+c:\overpower\temppic.jpg=
+c:\overpower\settings.ini=
+c:\overpower\energy.gif=
+c:\overpower\fighting.gif=
+c:\overpower\intellect.gif=
+c:\overpower\oponline.cnt=
+c:\overpower\oponline.gid=
+c:\overpower\oponline.hlp=
+c:\overpower\rules.htm=
+c:\overpower\strength.gif=
+c:\overpower\decks\children of the night.dat=
+c:\overpower\decks\energy strength team.dat=
+c:\overpower\decks\jla villians.dat=
+c:\overpower\decks\fantastic four villains.dat=
+c:\overpower\decks\fantastic four.dat=
+c:\overpower\decks\energy team.dat=
+c:\overpower\decks\strong heroes.dat=
+c:\overpower\decks\land and sea.dat=
+c:\overpower\decks\smart heroes.dat=
+c:\overpower\decks\smart villians.dat=
+c:\overpower\decks\sorcerers.dat=
+c:\overpower\decks\jla.dat=
+c:\overpower\decks\weather control.dat=
+c:\overpower\decks\three men and the little x-babies.dat=
+c:\overpower\decks\twinz - gamma base.dat=
+c:\overpower\decks\twinz deck.dat=
+c:\overpower\decks\the big apple.dat=
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\Overpower\OpOnline.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\tabctl32.ocx=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\mswinsck.ocx=Yes
+C:\Overpower\OpDeck.exe=Yes
+C:\Overpower\Overpower.mdb=Yes
+C:\Overpower\TempPic.jpg=Yes
+C:\Overpower\settings.ini=Yes
+C:\Overpower\energy.gif=Yes
+C:\Overpower\fighting.gif=Yes
+C:\Overpower\intellect.gif=Yes
+C:\Overpower\OpOnline.cnt=Yes
+C:\Overpower\OpOnline.GID=Yes
+C:\Overpower\OPONLINE.HLP=Yes
+C:\Overpower\Rules.htm=Yes
+C:\Overpower\strength.gif=Yes
+C:\Overpower\Decks\Children of the Night.dat=Yes
+C:\Overpower\Decks\Energy Strength Team.dat=Yes
+C:\Overpower\Decks\JLA Villians.dat=Yes
+C:\Overpower\Decks\Fantastic Four Villains.dat=Yes
+C:\Overpower\Decks\Fantastic Four.dat=Yes
+C:\Overpower\Decks\ENERGY TEAM.dat=Yes
+C:\Overpower\Decks\Strong Heroes.dat=Yes
+C:\Overpower\Decks\Land and Sea.dat=Yes
+C:\Overpower\Decks\Smart Heroes.dat=Yes
+C:\Overpower\Decks\Smart Villians.dat=Yes
+C:\Overpower\Decks\Sorcerers.dat=Yes
+C:\Overpower\Decks\JLA.dat=Yes
+C:\Overpower\Decks\Weather Control.dat=Yes
+C:\Overpower\Decks\Three Men and the Little X-Babies.dat=Yes
+C:\Overpower\Decks\Twinz - Gamma Base.dat=Yes
+C:\Overpower\Decks\Twinz Deck.dat=Yes
+C:\Overpower\Decks\The Big Apple.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Common Files\System\ado\msado21.tlb=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+C:\Overpower\OpOnline.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\msjet35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjter35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjint35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrepl35.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Overpower\OpDeck.exe=$(AppPath)
+C:\Overpower\Overpower.mdb=$(AppPath)
+C:\Overpower\TempPic.jpg=$(AppPath)
+C:\Overpower\settings.ini=$(AppPath)
+C:\Overpower\energy.gif=$(AppPath)
+C:\Overpower\fighting.gif=$(AppPath)
+C:\Overpower\intellect.gif=$(AppPath)
+C:\Overpower\OpOnline.cnt=$(AppPath)
+C:\Overpower\OpOnline.GID=$(AppPath)
+C:\Overpower\OPONLINE.HLP=$(AppPath)
+C:\Overpower\Rules.htm=$(AppPath)
+C:\Overpower\strength.gif=$(AppPath)
+C:\Overpower\Decks\Children of the Night.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Energy Strength Team.dat=$(AppPath)\Decks
+C:\Overpower\Decks\JLA Villians.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Fantastic Four Villains.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Fantastic Four.dat=$(AppPath)\Decks
+C:\Overpower\Decks\ENERGY TEAM.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Strong Heroes.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Land and Sea.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Smart Heroes.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Smart Villians.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Sorcerers.dat=$(AppPath)\Decks
+C:\Overpower\Decks\JLA.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Weather Control.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Three Men and the Little X-Babies.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Twinz - Gamma Base.dat=$(AppPath)\Decks
+C:\Overpower\Decks\Twinz Deck.dat=$(AppPath)\Decks
+C:\Overpower\Decks\The Big Apple.dat=$(AppPath)\Decks
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado21.tlb=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+C:\Overpower\OpOnline.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Overpower\OpDeck.exe=No
+C:\Overpower\Overpower.mdb=No
+C:\Overpower\TempPic.jpg=No
+C:\Overpower\settings.ini=No
+C:\Overpower\energy.gif=No
+C:\Overpower\fighting.gif=No
+C:\Overpower\intellect.gif=No
+C:\Overpower\OpOnline.cnt=No
+C:\Overpower\OpOnline.GID=No
+C:\Overpower\OPONLINE.HLP=No
+C:\Overpower\Rules.htm=No
+C:\Overpower\strength.gif=No
+C:\Overpower\Decks\Children of the Night.dat=No
+C:\Overpower\Decks\Energy Strength Team.dat=No
+C:\Overpower\Decks\JLA Villians.dat=No
+C:\Overpower\Decks\Fantastic Four Villains.dat=No
+C:\Overpower\Decks\Fantastic Four.dat=No
+C:\Overpower\Decks\ENERGY TEAM.dat=No
+C:\Overpower\Decks\Strong Heroes.dat=No
+C:\Overpower\Decks\Land and Sea.dat=No
+C:\Overpower\Decks\Smart Heroes.dat=No
+C:\Overpower\Decks\Smart Villians.dat=No
+C:\Overpower\Decks\Sorcerers.dat=No
+C:\Overpower\Decks\JLA.dat=No
+C:\Overpower\Decks\Weather Control.dat=No
+C:\Overpower\Decks\Three Men and the Little X-Babies.dat=No
+C:\Overpower\Decks\Twinz - Gamma Base.dat=No
+C:\Overpower\Decks\Twinz Deck.dat=No
+C:\Overpower\Decks\The Big Apple.dat=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=Overpower Online
+
+[Package|Dep File 1|IconGroups]
+Group0=Overpower Online
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Dep File 1|Overpower Online]
+Icon1=OpOnline.exe
+Title1=Overpower Online
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Dep File 1|DepFile]
+DepCabFile=OpOnline.CAB
+DepCabRun=OpOnline.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\Overpower
+ProjectFolder=C:\Overpower
+ServerSideCab=
+File1=C:\Overpower\OpOnline.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

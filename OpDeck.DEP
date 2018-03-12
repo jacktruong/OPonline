@@ -1,0 +1,23 @@
+[Version]
+Version=1.0.0.0
+
+[OpDeck.exe <0009>]
+Dest=$(AppPath)
+Date=2/5/03
+Time=21:55
+Version=1.0.0.0
+CABFilename=OpDeck.CAB
+CABINFFile=OpDeck.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=msado20.tlb
+Uses8=mscomctl.ocx
+Uses9=tabctl32.ocx
+Uses10=MSCOMCT2.OCX
+Uses11=COMDLG32.OCX
+Uses12=DBGRID32.OCX
+Uses13=mswinsck.ocx

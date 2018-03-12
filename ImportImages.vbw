@@ -1,0 +1,17 @@
+frmCharacterImage = 66, 66, 680, 562, , 44, 44, 658, 540, C
+frmAllyImage = 44, 44, 587, 488, , 22, 22, 565, 466, C
+frmSpecialImages = 110, 110, 653, 554, , 66, 66, 609, 510, C
+frmHomeBase = 154, 154, 697, 598, , 132, 132, 675, 576, C
+frmPowerCard = 154, 154, 697, 598, , 132, 132, 675, 576, C
+frmChooser = 154, 154, 697, 598, , 132, 132, 675, 576, C
+frmArtifactImages = 66, 66, 609, 510, , 198, 198, 741, 642, C
+frmAspectImages = 44, 44, 587, 488, , 176, 176, 719, 620, C
+frmTeamworkimages = 66, 66, 609, 510, Z, 22, 22, 565, 466, C
+frmDoubleshotimages = 44, 44, 587, 488, , 0, 0, 543, 444, C
+frmTrainingImages = 66, 66, 609, 510, , 22, 22, 565, 466, C
+frmBUImages = 88, 88, 631, 532, , 44, 44, 587, 488, C
+frmSpecialImages2 = 110, 110, 653, 554, , 88, 88, 631, 532, C
+frmMissionImages = 44, 44, 587, 488, , 22, 22, 565, 466, C
+frmEventImages = 154, 154, 697, 598, , 110, 110, 653, 554, C
+frmCheckSpecialImages = 198, 198, 741, 642, , 110, 110, 653, 554, C
+frmNewSpecial = 22, 22, 565, 466, , 176, 176, 719, 620, C

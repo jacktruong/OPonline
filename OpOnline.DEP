@@ -1,0 +1,58 @@
+[Version]
+Version=1.5.0.0
+
+[OpOnline.exe <0009>]
+Dest=$(AppPath)
+Date=2/5/03
+Time=21:27
+Version=1.5.0.0
+CABFilename=OpOnline.CAB
+CABINFFile=OpOnline.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=msado21.tlb
+Uses8=mscomctl.ocx
+Uses9=tabctl32.ocx
+Uses10=MSCOMCT2.OCX
+Uses11=COMDLG32.OCX
+Uses12=DBGRID32.OCX
+Uses13=mswinsck.ocx
+Uses14=OpDeck.exe
+Uses15=overpower.mdb
+Uses16=TempPic.jpg
+Uses17=settings.ini
+Uses18=energy.gif
+Uses19=fighting.gif
+Uses20=intellect.gif
+Uses21=OpOnline.cnt
+Uses22=OpOnline.GID
+Uses23=OPONLINE.HLP
+Uses24=Rules.htm
+Uses25=strength.gif
+Uses26=Children of the Night.dat
+Uses27=Energy Strength Team.dat
+Uses28=JLA Villians.dat
+Uses29=Fantastic Four Villains.dat
+Uses30=Fantastic Four.dat
+Uses31=ENERGY TEAM.dat
+Uses32=Strong Heroes.dat
+Uses33=Land and Sea.dat
+Uses34=Smart Heroes.dat
+Uses35=Smart Villians.dat
+Uses36=Sorcerers.dat
+Uses37=JLA.dat
+Uses38=Weather Control.dat
+Uses39=Three Men and the Little X-Babies.dat
+Uses40=Twinz - Gamma Base.dat
+Uses41=Twinz Deck.dat
+Uses42=The Big Apple.dat
+
+[msado21.tlb <0009>]
+Dest=$(WinSysPath)
+Date=1/30/03
+Time=16:18
+Version=2.50.4403.4
